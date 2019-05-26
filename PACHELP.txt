@@ -1,0 +1,13 @@
+Playing Pacman is easy to learn and hard to master (like all classic games). 
+Simply use the arrow keys to control your pacman.
+Score as many points as you can eating the small dots all around the maze. 
+50 points per dot, A possible 9,350 points for each level, and if you gobble up 
+a few fruits you add to the level.
+The fruit i.e., the cherry, gives a small bonus of 100 points. 
+Every Pacman attic has a love-hate relationship with the monsters.
+However you want to stay far away as long as possible. 
+Serious players will start to understand the personality of each of the monster and 
+use this to their advantage. 
+Once you've read this, take a few days to practice up on your newly honed skills. 
+Then challenge your friends to a game of Pacman. You'll amaze them with your skill.
+	                                  GOOD LUCK!!!
